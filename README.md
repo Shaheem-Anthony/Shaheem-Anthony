@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shaheem-Anthony
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning at IBM
-- 💞️ I’m looking to collaborate on my projects 
+- 💞️ I’m looking to collaborate with you...
 - 📫 How to reach me https://www.linkedin.com/in/shaheem-anthony-16b7b4211/
 
 <!---
